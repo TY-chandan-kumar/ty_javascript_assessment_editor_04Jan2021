@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: white;
+  }
+  h1 {
+      color: purple;
+      font-family: 'Ubuntu', sans-serif;
+  }
+  
+  textarea {
+    width: 31%;
+    min-height: 280px;
+    overflow: scroll;
+    margin: auto;
+    display: inline-block;
+    background: white;
+    outline: none;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+  }
+  
+  iframe {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+  }
